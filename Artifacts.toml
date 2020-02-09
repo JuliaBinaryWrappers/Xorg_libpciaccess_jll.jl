@@ -1,0 +1,89 @@
+[[Xorg_libpciaccess]]
+arch = "aarch64"
+git-tree-sha1 = "62dae393dc103ec7c050c9f59ae534e183172aa8"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libpciaccess.download]]
+    sha256 = "070b7f73c147f9dbb3031c717ae90a2ba26c6e675ce4cc9b0aac5a6c82e42e73"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpciaccess_jll.jl/releases/download/Xorg_libpciaccess-v0.16.0+0/Xorg_libpciaccess.v0.16.0.aarch64-linux-musl.tar.gz"
+[[Xorg_libpciaccess]]
+arch = "aarch64"
+git-tree-sha1 = "e39c995d0af19fbac3393aa4507c7b90237c334e"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libpciaccess.download]]
+    sha256 = "ae3c50508f0c89a195902eb44d54f39471a3c3c503028769d552c195ef7151ae"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpciaccess_jll.jl/releases/download/Xorg_libpciaccess-v0.16.0+0/Xorg_libpciaccess.v0.16.0.aarch64-linux-gnu.tar.gz"
+[[Xorg_libpciaccess]]
+arch = "x86_64"
+git-tree-sha1 = "ccd795f929a97ad64fb4a84971aae37402a15372"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libpciaccess.download]]
+    sha256 = "edba969d2d2f38d259ae301c93f3796de71da2eb3fc1891378d553b8bb42ce85"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpciaccess_jll.jl/releases/download/Xorg_libpciaccess-v0.16.0+0/Xorg_libpciaccess.v0.16.0.x86_64-linux-gnu.tar.gz"
+[[Xorg_libpciaccess]]
+arch = "powerpc64le"
+git-tree-sha1 = "5c1b45326f46c93a79b120a10eebf0a115df51c0"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libpciaccess.download]]
+    sha256 = "8a14127f07b12a749501ff22f43b2cd7f9201a79eda7c4bdf6e46057a1868ecb"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpciaccess_jll.jl/releases/download/Xorg_libpciaccess-v0.16.0+0/Xorg_libpciaccess.v0.16.0.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_libpciaccess]]
+arch = "x86_64"
+git-tree-sha1 = "02f469e14b550475ee255b2df5cf63e5312f7e30"
+os = "freebsd"
+
+    [[Xorg_libpciaccess.download]]
+    sha256 = "cddec5e13be67ad480938efa287ef5132a390889153e236bcdafb6d1b96c64db"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpciaccess_jll.jl/releases/download/Xorg_libpciaccess-v0.16.0+0/Xorg_libpciaccess.v0.16.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_libpciaccess]]
+arch = "i686"
+git-tree-sha1 = "90311c6f47224c47eff0c083dc05161e72acc9a0"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libpciaccess.download]]
+    sha256 = "0c423014924b2832685bf1d991c3c6abadc09dc20e7706e7691bfca874d89584"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpciaccess_jll.jl/releases/download/Xorg_libpciaccess-v0.16.0+0/Xorg_libpciaccess.v0.16.0.i686-linux-gnu.tar.gz"
+[[Xorg_libpciaccess]]
+arch = "i686"
+git-tree-sha1 = "8b72ff00800d66231c9dea5bb48528021c833ff6"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libpciaccess.download]]
+    sha256 = "6375c61504889812bca7f8f73084bcb7385914987b379b3004e6fc184966f343"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpciaccess_jll.jl/releases/download/Xorg_libpciaccess-v0.16.0+0/Xorg_libpciaccess.v0.16.0.i686-linux-musl.tar.gz"
+[[Xorg_libpciaccess]]
+arch = "armv7l"
+git-tree-sha1 = "8fa8b56243eccc7e1f7415e37c40f9c1dcbe3cea"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libpciaccess.download]]
+    sha256 = "0343aafbcc0b89199d782c2d9886510c9f24798d674b6138c3804aa7531a12d3"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpciaccess_jll.jl/releases/download/Xorg_libpciaccess-v0.16.0+0/Xorg_libpciaccess.v0.16.0.armv7l-linux-gnueabihf.tar.gz"
+[[Xorg_libpciaccess]]
+arch = "x86_64"
+git-tree-sha1 = "b9b574b715402073a0e72118ae338bf6a3830b3c"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libpciaccess.download]]
+    sha256 = "c36c79d38f45d1cc4a5139dc4e0e94a7ffdcbcd2bccb97c6fd8faea7e89a6663"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpciaccess_jll.jl/releases/download/Xorg_libpciaccess-v0.16.0+0/Xorg_libpciaccess.v0.16.0.x86_64-linux-musl.tar.gz"
+[[Xorg_libpciaccess]]
+arch = "armv7l"
+git-tree-sha1 = "b5fe4ee4a506e66102437732269b6b381242fd1a"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libpciaccess.download]]
+    sha256 = "39af1b4b0c687bbb91a02e6ce719c2ad4ec8b900cf8aba237e86c4758fd0617a"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpciaccess_jll.jl/releases/download/Xorg_libpciaccess-v0.16.0+0/Xorg_libpciaccess.v0.16.0.armv7l-linux-musleabihf.tar.gz"
